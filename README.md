@@ -10,5 +10,6 @@ This is a simple todo app based on java, javascript, springboot, html, and css.
 ## Installation
 
 1. Set up you own local docker container and the mysql server, with username root and port 3306.
-2. Download folder todo. Run Main.java.
-3. Enter localhost:8080 in browser.
+2. Edit application.properties.
+3. Download folder todo. Run Main.java.
+4. Enter localhost:8080 in browser.
